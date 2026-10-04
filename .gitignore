@@ -46,3 +46,26 @@ output.txt
 output_report.txt
 OutputFor*.txt
 Team_12_Sim*.txt
+
+# Local environments, runtime data and build outputs
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.env
+.env.*
+!.env.example
+local.properties
+credentials.csv
+credentials.db
+logs.csv
+.gradle/
+build/
+*.class
+*.o
+*.exe
+.DS_Store
+Thumbs.db
+
+Team_*_Sim_*.txt

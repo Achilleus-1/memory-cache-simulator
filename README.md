@@ -4,9 +4,9 @@ Trace-driven Python simulator for virtual memory, set-associative caches, replac
 
 ## Original coursework
 
-- CS 3853-004 — Computer Architecture, Spring 2025
+- Computer Architecture
 
-Originally completed at the University of Texas at San Antonio during the terms above and imported to GitHub later. This repository preserves the submitted implementation; repository documentation and import housekeeping were added separately.
+Originally completed at the University of Texas at San Antonio and imported to GitHub later. This repository retains the coursework implementation with documented maintenance fixes and demonstration assets.
 
 **Languages and technologies:** Python, argparse, standard library.
 
@@ -39,3 +39,9 @@ Requires Python 3. Run python simulator.py --help to inspect the arguments. A ty
 - The original trace format and coursework assumptions are retained.
 
 Only source code, build configuration, and required text inputs are included. Written submissions, assignment instructions, PDFs, videos, generated outputs, binary builds, and private configuration are omitted. Anonymized contributor labels and supplied-code comments retain the distinction between submitted work and scaffolding. No license for course-provided material is inferred.
+
+## Development and reuse
+
+See [DEVELOPMENT.md](DEVELOPMENT.md) for reproducible checks and known archival dependencies, [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidance, and [SECURITY.md](SECURITY.md) for private reports.
+
+Reuse terms and provenance are documented in [NOTICE.md](NOTICE.md) and [LICENSE](LICENSE). The maintenance license does not grant rights to original course or team material.
